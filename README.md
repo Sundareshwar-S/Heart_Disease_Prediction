@@ -77,7 +77,7 @@ In this project, several algorithms were applied to predict heart disease based 
 
 ### 3. Heart Disease Prediction using LightGBM
    - LightGBM (Light Gradient Boosting Machine) is a fast, distributed, high-performance gradient-boosting framework.
-   - It was used to create a highly accurate and efficient predictive model for heart disease.
+   - It was used to create a highly accurate and efficient predictive models for heart disease.
    - The LightGBM model iteratively adds decision trees to correct the errors of the previous trees, focusing on the hardest-to-predict samples.
 
 ### 4. Logistic Regression with Hyperparameter Tuning
