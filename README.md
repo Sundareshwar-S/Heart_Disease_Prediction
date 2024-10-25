@@ -4,7 +4,7 @@
 
 This dataset is designed for predicting the likelihood of heart disease based on a set of clinical and demographic features. It can be used for training machine learning models to determine risk factors and patterns related to heart disease. Each row in the dataset represents an individual, and the dataset includes a mix of numerical and categorical data points, which reflect various health metrics and conditions.
 
-## File Details
+## File Details.
 
 - **File name:** `Heart_Disease_Prediction.csv`
 - **File format:** CSV (Comma-Separated Values)
